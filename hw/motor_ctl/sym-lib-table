@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name "crystall")(type "KiCad")(uri "${KIPRJMOD}/lib/XTAL_ABM8G-24.000MHZ-18-D2Y-T/ABM8G-24.000MHZ-18-D2Y-T.kicad_sym")(options "")(descr ""))
+  (lib (name "IND_IFSC_1515AH")(type "KiCad")(uri "${KIPRJMOD}/lib/IFSC/IND_IFSC_1515AH.kicad_sym")(options "")(descr ""))
+  (lib (name "STM32G431CBT6")(type "KiCad")(uri "${KIPRJMOD}/lib/STM32G431CBT6/STM32G431CBT6.kicad_sym")(options "")(descr ""))
+  (lib (name "conn_TagConnect")(type "KiCad")(uri "${KIPRJMOD}/lib/Tag-Connect/conn_TagConnect.kicad_sym")(options "")(descr ""))
+  (lib (name "L6387ED")(type "KiCad")(uri "${KIPRJMOD}/lib/L6387ED/L6387ED.kicad_sym")(options "")(descr ""))
+  (lib (name "STL50N6F7")(type "KiCad")(uri "${KIPRJMOD}/lib/STL50N6F7/STL50N6F7.kicad_sym")(options "")(descr ""))
+  (lib (name "INA4181")(type "KiCad")(uri "${KIPRJMOD}/lib/INA4181/INA4181.kicad_sym")(options "")(descr ""))
+)

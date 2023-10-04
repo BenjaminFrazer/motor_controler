@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "XTAL_ABM8G-24")(type "KiCad")(uri "${KIPRJMOD}/lib/XTAL_ABM8G-24.000MHZ-18-D2Y-T")(options "")(descr ""))
+  (lib (name "IFSC")(type "KiCad")(uri "${KIPRJMOD}/lib/IFSC")(options "")(descr ""))
+  (lib (name "STM32G431CBT6")(type "KiCad")(uri "${KIPRJMOD}/lib/STM32G431CBT6")(options "")(descr ""))
+  (lib (name "STL50N6F7")(type "KiCad")(uri "${KIPRJMOD}/lib/STL50N6F7")(options "")(descr ""))
+  (lib (name "STEP")(type "KiCad")(uri "${KIPRJMOD}/lib/INA4181/STEP")(options "")(descr ""))
+)
