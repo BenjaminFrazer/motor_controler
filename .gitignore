@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+*.log
+tmp/
+*backups/
+/src/cube_ide/.metadata/
